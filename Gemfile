@@ -23,7 +23,7 @@ gem 'jbuilder', '~> 2.0'
 # Add bootstrap
 gem 'bootstrap-sass'
 
-gropu :development, :test do
+group :development, :test do
 	gem 'sqlite3'
 end
 
